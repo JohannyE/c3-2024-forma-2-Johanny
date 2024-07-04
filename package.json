@@ -16,8 +16,7 @@
     "koa": "^2.13.4",
     "koa-body": "^4.2.0",
     "koa-router": "^10.1.1",
-    "sinon": "^14.0.0",
-    "supertest": "^6.2.3"
+    "sinon": "^14.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.17.6",
@@ -26,6 +25,7 @@
     "@babel/plugin-proposal-class-properties": "^7.16.7",
     "@babel/plugin-proposal-object-rest-spread": "^7.17.3",
     "@babel/preset-env": "^7.16.11",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "supertest": "^7.0.0"
   }
 }
